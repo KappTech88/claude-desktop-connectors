@@ -1,3 +1,6 @@
 [submodule "AI-RESEARCH-SKILLS-MCP"]
 	path = AI-RESEARCH-SKILLS-MCP
 	url = https://github.com/KappTech88/AI-RESEARCH-SKILLS-MCP.git
+[submodule "claude-gmail-mcp"]
+	path = claude-gmail-mcp
+	url = https://github.com/KappTech88/claude-gmail-mcp.git
