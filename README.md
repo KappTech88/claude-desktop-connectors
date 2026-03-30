@@ -1,4 +1,4 @@
-# 🔌 Claude Desktop MCP Connectors
+# 🔌 Claude Desktop Local MCP Connectors
 
 Custom-built local MCP (Model Context Protocol) servers for Claude Desktop on Windows. Each project is a standalone, self-contained connector you can clone and run independently — no bloated monorepo installs required.
 
