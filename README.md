@@ -2,7 +2,7 @@
 
 Custom-built local MCP (Model Context Protocol) servers for Claude Desktop on Windows. Each project is a standalone, self-contained connector you can clone and run independently — no bloated monorepo installs required.
 
-Built by [Bryant Quiovers](https://github.com/YOUR_USERNAME) · Estimate Reliance LLC
+Built by [Bryant Quiovers](https://github.com/YOUR_USERNAME) · Kapp Labs
 
 ---
 
